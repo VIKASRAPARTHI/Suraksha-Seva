@@ -67,7 +67,7 @@ Suraksha Seva is an engaging and educational platform designed to inform users a
     Run the following command in your terminal or command prompt to clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/theankushshah/Suraksha.git
+    git clone https://github.com/VIKASRAPARTHI/Suraksha-Seva.git
     ```
 
 2. **Navigate to the Directory:** 
