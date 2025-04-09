@@ -1,0 +1,19 @@
+{
+    "short_name": "Suraksha",
+    "name": "Suraksha",
+    "icons": [
+      {
+        "src": "/logo.png",
+        "type": "image/png",
+        "sizes":"420x420"
+      },
+      {
+        "src": "/apple-touch-icon.png",
+        "type": "image/png",
+        "sizes":"420x420"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#000000"
+  }
